@@ -4,7 +4,3 @@ developcommit
 feature1commit
 =======
 feature2commit
->>>>>>> feature2
-=======
-feature3commit
->>>>>>> feature3
